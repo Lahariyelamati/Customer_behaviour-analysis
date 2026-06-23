@@ -7,17 +7,31 @@ Business Problem
 5 questions answered:
 
 Does customer age influence how much people spend?
+
 Do discounts lead to higher purchase amounts?
+
 Which product categories generate the most revenue?
+
 Do subscribers spend more than non-subscribers?
+
 Which season drives the highest sales?
 
 Key Findings:
 
 Discounts reduce average spend by $0.85 per transaction — the discount program costs money without lifting revenue
+
 Subscription members spend less on average ($59.49) than non-members ($59.87), questioning the ROI of the loyalty program
+
 Clothing accounts for 45% of total revenue — nearly 3x that of Footwear — suggesting inventory and marketing should be heavily weighted toward this category
+
 Dataset Name: customer_shopping_behaviour.csv
+
+Source: Kaggle — Consumer Behavior and Shopping Habits Dataset
+
+Size: 3,900 rows × 18 columns. Each row represents one customer's purchase transaction.
+
+
+
 
 
 Tools and Technologies
