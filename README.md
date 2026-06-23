@@ -1,4 +1,6 @@
 # Customer_behaviour-analysis
+
+A retail company wants to improve revenue. This analysis identifies which customer segments drive the most value, which products have the highest discount dependency, and recommends where to focus retention spend — backed by SQL analysis and an interactive Power BI dashboard.
 Data analytics project showcasing customer behaviour analysis showcasing python ,sql and powerbi
 
 Data Analysis Project
