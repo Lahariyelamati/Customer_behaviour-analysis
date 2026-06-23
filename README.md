@@ -1,15 +1,22 @@
 # Customer_behaviour-analysis
 
-A retail company wants to improve revenue. This analysis identifies which customer segments drive the most value, which products have the highest discount dependency, and recommends where to focus retention spend — backed by SQL analysis and an interactive Power BI dashboard.
-Data analytics project showcasing customer behaviour analysis showcasing python ,sql and powerbi
+Business Problem 
 
-Data Analysis Project
-Overview
+"A retail company wants to understand whether its current strategies — discounts, subscriptions, and demographic targeting — are actually driving revenue, or whether resources are being spent on ineffective tactics."
 
-This project demonstrates an end-to-end data analysis workflow using Python, PostgreSQL, Power BI, and Gamma. The objective is to analyze a dataset, extract meaningful insights, visualize key metrics, and present the findings through interactive dashboards and reports. The project covers data loading, exploratory data analysis (EDA), machine learning model preparation, SQL-based analysis, dashboard creation, and presentation generation.
+5 questions answered:
 
-Dataset
+Does customer age influence how much people spend?
+Do discounts lead to higher purchase amounts?
+Which product categories generate the most revenue?
+Do subscribers spend more than non-subscribers?
+Which season drives the highest sales?
 
+Key Findings:
+
+Discounts reduce average spend by $0.85 per transaction — the discount program costs money without lifting revenue
+Subscription members spend less on average ($59.49) than non-members ($59.87), questioning the ROI of the loyalty program
+Clothing accounts for 45% of total revenue — nearly 3x that of Footwear — suggesting inventory and marketing should be heavily weighted toward this category
 Dataset Name: customer_shopping_behaviour.csv
 
 
